@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configcenter3344" />
+        <module name="configclient3355" />
+        <module name="configclient3366" />
+        <module name="consumer1" />
+        <module name="consumerconsul" />
+        <module name="consumereureka" />
+        <module name="consumerfeign" />
+        <module name="consumerfeignhystrix" />
+        <module name="eureka7001" />
+        <module name="gateway9527" />
+        <module name="HystrixDashboard9001" />
+        <module name="hystrixdashboardturbine" />
+        <module name="provider1" />
+        <module name="providerconsul8002" />
+        <module name="providereureka8002" />
+        <module name="providerfeign8003" />
+        <module name="providerhystrix8001" />
+        <module name="seataaccountservice2003" />
+        <module name="seataorderservice2001" />
+        <module name="seatastorageservice2002" />
+        <module name="springCloudAlibabaNacosClient3377" />
+        <module name="springCloudAlibabaNacosConsumer83" />
+        <module name="springCloudAlibabaNacosConsumer84" />
+        <module name="springCloudAlibabaNacosProvider9001" />
+        <module name="springCloudAlibabaNacosProvider9002" />
+        <module name="springCloudAlibabaNacosProvider9003" />
+        <module name="springCloudAlibabaNacosProvider9004" />
+        <module name="springCloudAlibabaSentinelService8401" />
+        <module name="streamrabbitconsumer8802" />
+        <module name="streamrabbitconsumer8803" />
+        <module name="streamrabbitprovider8801" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud1" target="1.8" />
+      <module name="configcenter3344" target="1.8" />
+      <module name="configclient3355" target="1.8" />
+      <module name="configclient3366" target="1.8" />
+      <module name="consumer1" target="1.8" />
+      <module name="consumerconsul" target="1.8" />
+      <module name="consumereureka" target="1.8" />
+      <module name="consumerfeign" target="1.8" />
+      <module name="consumerfeignhystrix" target="1.8" />
+      <module name="eureka7001" target="1.8" />
+      <module name="gateway9527" target="1.8" />
+      <module name="hystrix-dashboard-turbine-8989" target="1.8" />
+      <module name="HystrixDashboard9001" target="1.8" />
+      <module name="hystrixdashboardturbine" target="1.8" />
+      <module name="provider1" target="1.8" />
+      <module name="providerconsul8002" target="1.8" />
+      <module name="providereureka8002" target="1.8" />
+      <module name="providerfeign8003" target="1.8" />
+      <module name="providerhystrix8001" target="1.8" />
+      <module name="seataaccountservice2003" target="1.8" />
+      <module name="seataorderservice2001" target="1.8" />
+      <module name="seatastorageservice2002" target="1.8" />
+      <module name="springCloudAlibabaNacosClient3377" target="1.8" />
+      <module name="springCloudAlibabaNacosConsumer83" target="1.8" />
+      <module name="springCloudAlibabaNacosConsumer84" target="1.8" />
+      <module name="springCloudAlibabaNacosProvider9001" target="1.8" />
+      <module name="springCloudAlibabaNacosProvider9002" target="1.8" />
+      <module name="springCloudAlibabaNacosProvider9003" target="1.8" />
+      <module name="springCloudAlibabaNacosProvider9004" target="1.8" />
+      <module name="springCloudAlibabaSentinelService8401" target="1.8" />
+      <module name="streamrabbitconsumer8802" target="1.8" />
+      <module name="streamrabbitconsumer8803" target="1.8" />
+      <module name="streamrabbitprovider8801" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

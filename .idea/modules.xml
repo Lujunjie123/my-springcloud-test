@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HystrixDashboard9001/HystrixDashboard9001.iml" filepath="$PROJECT_DIR$/HystrixDashboard9001/HystrixDashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud1.iml" filepath="$PROJECT_DIR$/cloud1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configcenter3344/configcenter3344.iml" filepath="$PROJECT_DIR$/configcenter3344/configcenter3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient3355/configclient3355.iml" filepath="$PROJECT_DIR$/configclient3355/configclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient3366/configclient3366.iml" filepath="$PROJECT_DIR$/configclient3366/configclient3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer1/consumer1.iml" filepath="$PROJECT_DIR$/consumer1/consumer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerconsul/consumerconsul.iml" filepath="$PROJECT_DIR$/consumerconsul/consumerconsul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumereureka/consumereureka.iml" filepath="$PROJECT_DIR$/consumereureka/consumereureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfeign/consumerfeign.iml" filepath="$PROJECT_DIR$/consumerfeign/consumerfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfeignhystrix/consumerfeignhystrix.iml" filepath="$PROJECT_DIR$/consumerfeignhystrix/consumerfeignhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7001/eureka7001.iml" filepath="$PROJECT_DIR$/eureka7001/eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway9527/gateway9527.iml" filepath="$PROJECT_DIR$/gateway9527/gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashboardturbine/hystrixdashboardturbine.iml" filepath="$PROJECT_DIR$/hystrixdashboardturbine/hystrixdashboardturbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider1/provider1.iml" filepath="$PROJECT_DIR$/provider1/provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerconsul8002/providerconsul8002.iml" filepath="$PROJECT_DIR$/providerconsul8002/providerconsul8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providereureka8002/providereureka8002.iml" filepath="$PROJECT_DIR$/providereureka8002/providereureka8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerfeign8003/providerfeign8003.iml" filepath="$PROJECT_DIR$/providerfeign8003/providerfeign8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerhystrix8001/providerhystrix8001.iml" filepath="$PROJECT_DIR$/providerhystrix8001/providerhystrix8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seataaccountservice2003/seataaccountservice2003.iml" filepath="$PROJECT_DIR$/seataaccountservice2003/seataaccountservice2003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seataorderservice2001/seataorderservice2001.iml" filepath="$PROJECT_DIR$/seataorderservice2001/seataorderservice2001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seatastorageservice2002/seatastorageservice2002.iml" filepath="$PROJECT_DIR$/seatastorageservice2002/seatastorageservice2002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosClient3377/springCloudAlibabaNacosClient3377.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosClient3377/springCloudAlibabaNacosClient3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosConsumer83/springCloudAlibabaNacosConsumer83.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosConsumer83/springCloudAlibabaNacosConsumer83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosConsumer84/springCloudAlibabaNacosConsumer84.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosConsumer84/springCloudAlibabaNacosConsumer84.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosProvider9001/springCloudAlibabaNacosProvider9001.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosProvider9001/springCloudAlibabaNacosProvider9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosProvider9002/springCloudAlibabaNacosProvider9002.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosProvider9002/springCloudAlibabaNacosProvider9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosProvider9003/springCloudAlibabaNacosProvider9003.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosProvider9003/springCloudAlibabaNacosProvider9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaNacosProvider9004/springCloudAlibabaNacosProvider9004.iml" filepath="$PROJECT_DIR$/springCloudAlibabaNacosProvider9004/springCloudAlibabaNacosProvider9004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAlibabaSentinelService8401/springCloudAlibabaSentinelService8401.iml" filepath="$PROJECT_DIR$/springCloudAlibabaSentinelService8401/springCloudAlibabaSentinelService8401.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamrabbitconsumer8802/streamrabbitconsumer8802.iml" filepath="$PROJECT_DIR$/streamrabbitconsumer8802/streamrabbitconsumer8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamrabbitconsumer8803/streamrabbitconsumer8803.iml" filepath="$PROJECT_DIR$/streamrabbitconsumer8803/streamrabbitconsumer8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamrabbitprovider8801/streamrabbitprovider8801.iml" filepath="$PROJECT_DIR$/streamrabbitprovider8801/streamrabbitprovider8801.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+server:
+  port: 8989
+turbine:
+  cluster-name-expression: new String("default")
+  app-config: PROVIDEREUREKA
+  instanceUrlSuffix: hystrix.stream
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+spring:
+  application:
+    name: hystrix-dashboard-turbine-8989

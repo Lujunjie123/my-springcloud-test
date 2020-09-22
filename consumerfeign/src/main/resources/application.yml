@@ -1,0 +1,21 @@
+server:
+  port: 8100
+spring:
+  application:
+    name: consumerfeign
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    instance-id: consumerfeign
+  #设置feign超时时间(OpenFeign默认支持ribbon)
+ribbon:
+  ReadTimeout: 5000    #建立连接所用的时间，使用与网络状态正常的情况下，两端连接所用的时间
+  ConnectTimeout: 5000  #建立连接后从服务器读取到可用资源的时间
+##日志什么级别，监控什么接口
+logging:
+  level:
+    com.kuang.config.FeignConfig: debug

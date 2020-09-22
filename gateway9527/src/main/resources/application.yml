@@ -1,0 +1,29 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: gateway9527
+  cloud:
+    gateway:
+      routes:
+        - id: route1
+#          uri: http://localhost:8001
+          uri: lb://providereureka
+          predicates:
+#            - Path=/hystrix/ok/**
+             - Path=/lb
+             - After=2020-06-24T12:56:05.134+08:00[Asia/Shanghai]
+#             - Before=2020-06-24T12:56:05.134+08:00[Asia/Shanghai]
+#             - Between=2020-06-24T12:56:05.134+08:00[Asia/Shanghai],2020-07-24T12:56:05.134+08:00[Asia/Shanghai]
+#             - Cookie=username,lujunjie
+#             - Header=X-Request-Id, \d+   #请求头要有X-Request-Id属性并且值为整数的正则表达式
+             - Method=GET
+#             - Query=username, \d+ #要有参数名username并且值还要是整数才能路由
+eureka:
+  instance:
+      hostname: gateway9527-service
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
